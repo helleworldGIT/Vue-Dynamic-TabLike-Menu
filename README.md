@@ -1,2 +1,2 @@
-# vuedynamicmenu
-A nice-looking dynamic menu in Vuejs
+# Vue Dynamic Tab Menu for Vuejs
+A tab-like menu in Vuejs.
