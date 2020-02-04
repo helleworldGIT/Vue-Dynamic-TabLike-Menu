@@ -1,7 +1,7 @@
 # Vue Dynamic Tab Menu for Vuejs
 A tab-like menu in Vuejs.
 
-This project was made for an article writen in Dev.to, both made by Desiré M Carmona /  [My Twitter](https://twitter.com/helleworld_)
+This project was made for an [article](https://dev.to/helleworld_/creating-a-dynamic-active-tabs-menu-in-vuejs-3h3g) writen in Dev.to, both made by Desiré M Carmona /  [My Twitter](https://twitter.com/helleworld_)
 
 Active-tab menus could look like this:
 
